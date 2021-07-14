@@ -18,3 +18,7 @@ Furthermore, a new instance of 2310depot can also connect to that port by the co
 ```sh
 CONNECT:PORTNUMBER
 ```
+
+### More Info
+The program is based on very specific functionalities that were mentioned in an assignment specification. If you are interested or should you require more information on any aspect of it, feel free to email me (mujibulislamdipto@gmail.com).
+I will send you a copy of the spec and provide further explanation if required.
