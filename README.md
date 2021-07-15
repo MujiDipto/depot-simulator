@@ -1,5 +1,5 @@
 # depot-simulator
-A Multi-Threaded Peer-To-Peer C Program That Simulates A Depot And Connects To Neighbours In The Network
+A Multi-Threaded Peer-To-Peer C Program That Simulates A Depot Can Connect To Neighbours In The Network
 
 ## Overview 
 This program implements a network simulation. 2310depot is a single peer-to-peer, multi-threaded C99 program. Multiple instances of this program will execute to form this network.
